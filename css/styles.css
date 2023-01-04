@@ -1,0 +1,24 @@
+* {
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box !important;
+  scroll-behavior: smooth !important;
+}
+
+/* MAIN COLOR STYLES */
+/* 
+Bootstrap colors: 
+https://getbootstrap.com/docs/5.2/utilities/colors/#colors
+*/
+
+body {
+  background-color: black !important;
+}
+h1 {
+  margin-top: 0.5rem !important;
+}
+.inputDiv {
+  display: flex !important;
+  justify-content: center !important;
+  /* margin-top: 1rem !important; */
+}
