@@ -11,3 +11,6 @@ Technologies that were used is Bootstrap, to make this app responsive on various
 ### Small side note
 
 This is a very small app, not designed for showcasing - I am really only using it when I travel and need to use certain keycodes to access certain characters on intl. keyboards.
+
+Published app: 
+https://mrmaciejm.github.io/keycode-checker/
